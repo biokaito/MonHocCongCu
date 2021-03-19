@@ -16,6 +16,10 @@ namespace MonHocCongCu
         {
             InitializeComponent();
         }
+        Song bat dau tu gio, 
+            gio bat dau tu dau
+                anh cung khong biet nua,
+                    khi nao ta yeu nhau?
 
     }
 }

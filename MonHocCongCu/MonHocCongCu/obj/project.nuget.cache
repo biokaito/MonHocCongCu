@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1XJaTU5xQaLf2nT1EG4aiKWhbPpQOqqqz5PMRk429UP+PvyFenE3jyl1zwuFvuOlHoyPhXZwb6iwFH9d5sIZw==",
+  "dgSpecHash": "He88filAx/zG0VO1PqCvWd94PRNsL0juCf8V9P4xitbSILd/m1iO5eVH81LmGbI3mggT40+gLJrW/StMT7reRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BasTrieu\\source\\repos\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu.csproj",
+  "projectFilePath": "C:\\Users\\BasTrieu\\Documents\\GitHub\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BasTrieu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
