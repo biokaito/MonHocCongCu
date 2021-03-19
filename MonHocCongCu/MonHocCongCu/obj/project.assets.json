@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BasTrieu\\source\\repos\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu.csproj",
+      "projectUniqueName": "C:\\Users\\BasTrieu\\Documents\\GitHub\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu.csproj",
       "projectName": "MonHocCongCu",
-      "projectPath": "C:\\Users\\BasTrieu\\source\\repos\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu.csproj",
+      "projectPath": "C:\\Users\\BasTrieu\\Documents\\GitHub\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu.csproj",
       "packagesPath": "C:\\Users\\BasTrieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BasTrieu\\source\\repos\\MonHocCongCu\\MonHocCongCu\\obj\\",
+      "outputPath": "C:\\Users\\BasTrieu\\Documents\\GitHub\\MonHocCongCu\\MonHocCongCu\\MonHocCongCu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BasTrieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
